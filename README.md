@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Vivek Chunduri!  
+# 👋 Hi, I'm Sai Vivek!  
 
 📍 **San Jose, CA** | [LinkedIn](https://www.linkedin.com/in/sai-vivek-ch) | 📧 saivivek.chunduri123@gmail.com  
 
@@ -48,8 +48,7 @@
 - 🎯 **I regularly work on side projects** exploring real-world datasets & predictive modeling.
 
 💡 **Open to full-time opportunities in Data Engineering, Data Analytics, and Data Science.**  
-🤝 **Open to collaborations on innovative data projects, research, and real-world problem-solving.**  
-🤝 **Let's collaborate!** Connect with me on [LinkedIn](https://www.linkedin.com/in/sai-vivek-ch)  
+🤝 **Excited to collaborate on data-driven projects, research, and real-world challenges. Let's connect!** [LinkedIn](https://www.linkedin.com/in/sai-vivek-ch)  
 
 
 🚀 Feel free to explore my work: [GitHub Repositories](https://github.com/saivivek55?tab=repositories)
