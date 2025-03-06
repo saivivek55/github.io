@@ -1,9 +1,12 @@
-# Sai Vivek Chunduri  
+# 👋 Hi, I'm Sai Vivek Chunduri!  
 
-📍 San Jose, CA | [LinkedIn](https://www.linkedin.com/in/sai-vivek-ch) | 📧 saivivek.chunduri123@gmail.com 
+📍 **San Jose, CA** | [LinkedIn](https://www.linkedin.com/in/sai-vivek-ch) | 📧 saivivek.chunduri123@gmail.com  
 
-## 👨‍💻 About Me  
-I am a **Data Engineer & Data Analyst** with expertise in **SQL, Python, Power BI, Tableau, and cloud technologies**. With experience in **data modeling, ETL pipelines, machine learning, and real-time data streaming**, I enjoy working on **data-driven solutions that solve real-world problems**.  
+🔍 **Data Engineer | Data Analyst | Machine Learning Enthusiast**  
+
+📊 Passionate about turning **data into insights** through **SQL, Python, Power BI, Tableau & Cloud Technologies**  
+🚀 I love working with **Big Data, Real-time Streaming, ETL Pipelines, and Data Science solutions**  
+
 
 ## 🔥 Featured Projects  
 
@@ -30,15 +33,19 @@ I am a **Data Engineer & Data Analyst** with expertise in **SQL, Python, Power B
 ### **📊 Carbon Emission Prediction using LSTM**  
 - Built an LSTM-based model to predict **carbon emissions** and estimated the cost of achieving carbon neutrality for the top 4 polluting countries.  
 - GitHub: [Carbon Emission Prediction](https://github.com/saivivek55/Carbon-emission-Prediction)
-  
 
-## ⚙️ Skills & Technologies  
+## ⚡ Skills & Technologies  
+💾 **SQL, Python, R, Java, PySpark**  
+📊 **Power BI, Tableau, Kibana, EDA**  
+☁️ **AWS, Azure, Databricks, Snowflake, MongoDB, PostgreSQL**  
+🚀 **Apache Spark, Hadoop, TensorFlow, Scikit-Learn**  
+🔧 **Docker, Git, A/B Testing, Agile, CI/CD**  
+🛠 **ETL Pipelines, Data Modeling, Cloud Data Warehousing**  
 
-- **Programming:** Python, R, SQL, Java, PySpark  
-- **Data Tools:** Power BI, Tableau, Kibana  
-- **Cloud & Databases:** AWS, Azure, Snowflake, Databricks, MongoDB, PostgreSQL  
-- **Big Data & ML:** Apache Spark, Hadoop, TensorFlow, Scikit-Learn  
-- **Other Tools:** Docker, Git, Agile, A/B Testing  
+## 🌟 Fun Facts About Me  
+- 🔍 **I enjoy solving complex data challenges** – whether it's optimizing SQL queries or debugging ETL pipelines.  
+- 🎨 **I love creating interactive dashboards** that **tell compelling data stories**.  
+- 🎯 **I regularly work on side projects** exploring real-world datasets & predictive modeling.
 
 💡 **Open to full-time opportunities in Data Engineering, Data Analytics, and Data Science.**  
 🤝 **Open to collaborations on innovative data projects, research, and real-world problem-solving.**  
