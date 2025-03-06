@@ -48,7 +48,7 @@
 - 🎯 **I regularly work on side projects** exploring real-world datasets & predictive modeling.
 
 💡 **Open to full-time opportunities in Data Engineering, Data Analytics, and Data Science.**  
-🤝 **Excited to collaborate on data-driven projects, research, and real-world challenges. Let's connect!** [LinkedIn](https://www.linkedin.com/in/sai-vivek-ch)  
+🤝 **Excited to collaborate on data-driven projects, research, and real-world challenges. Let's connect!** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-vivek-ch)  
 
 
 🚀 Feel free to explore my work: [GitHub Repositories](https://github.com/saivivek55?tab=repositories)
